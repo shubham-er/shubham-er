@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Srivastava
 - 👀 I’m interested in revolving technologies
-- 🌱 I’m currently learning AWS Cloud Security
+- 🌱 I’m currently learning Application Security
 - 💞️ I’m looking to collaborate on AWS Secure and robust Architecture , development and deployment
 - 📫 reach me - vikkeysrivastava2@gmail.com
 
